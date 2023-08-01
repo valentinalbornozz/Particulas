@@ -1,2 +1,2 @@
 # Particulas
-Animación de particlulas Mediante API
+Animación de particlulas Mediante animeJS

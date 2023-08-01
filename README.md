@@ -1,2 +1,2 @@
 # Particulas
- Universidad Animación de particlulas
+Animación de particlulas Mediante API
